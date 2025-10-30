@@ -2,7 +2,7 @@
 
 > Una aplicación móvil para ayudar a encontrar mascotas perdidas o reportar animales encontrados.
 
-Desarrollado como trabajo anual por Maira González y Diego Ledesma
+Desarrollado como trabajo anual por Maira González y Diego Ledesma, Jennifer Moyano 
 Instituto: IFTS16
 Materia: Taller 3
 Año: 2025
